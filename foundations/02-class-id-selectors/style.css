@@ -1,0 +1,18 @@
+.para{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    color: black;
+    
+}
+#number2-div{
+    font-size: 36px;
+    color: #0000ff;
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+#number4-div{
+    background-color: rgb(115, 232, 177);
+    font-weight: bold;
+
+}
